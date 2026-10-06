@@ -1,0 +1,27 @@
+# Secrets. The real key lives in .env, which is never committed. Only .env.example (placeholders) is.
+.env
+.env.*
+!.env.example
+
+# Local-only data pack: the database and the product photos
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Front end
+node_modules/
+dist/
+
+# Misc
+.DS_Store
+.claude/
+output/audit_trail.overflow.jsonl
+
+# A generated copy made for uploading by hand (see scripts/export_for_github.py): never part of the repo itself
+hw4-github-upload/
