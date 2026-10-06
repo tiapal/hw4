@@ -1,0 +1,256 @@
+{
+  "title": "What's my new size?",
+  "brand": "No Boundaries x Walmart (\"Only at Walmart\")",
+  "units": "inches",
+  "source_image": "more-vanity-sizing-v0-8l5u5c24j7qd1.webp",
+  "basis": "These sizes come from the No Boundaries x Walmart \"What's my new size?\" chart (all measurements in inches). It was made for a different brand, so it may be inaccurate for Campus Customs items. Treat it as a rough guide.",
+  "notes": [
+    "old_size is the label before the brand's resize, new_size is the label after.",
+    "campus_customs_size is the matching size Campus Customs makes (XS to XXL). null means we don't make that size.",
+    "The XXL-XXXL/1X row is one chart size; Campus Customs sells it as XXL.",
+    "The 5X row lists one numeric size (32W) beside two lines of measurements; both lines are kept.",
+    "Rows with line 'plus' are the plus-size labels. 0X (14W), 1X (16W/18W) repeat the chest, waist and hip of the XL/XXL rows (18, 20, 22)."
+  ],
+  "rows": [
+    {
+      "old_size": "XS",
+      "new_size": "XXS",
+      "campus_customs_size": null,
+      "numeric": "00",
+      "line": "straight",
+      "chest": 31.5,
+      "waist": 26,
+      "hip": 33.5
+    },
+    {
+      "old_size": "S",
+      "new_size": "XS",
+      "campus_customs_size": "XS",
+      "numeric": "0",
+      "line": "straight",
+      "chest": 32.5,
+      "waist": 27,
+      "hip": 34.5
+    },
+    {
+      "old_size": "S",
+      "new_size": "XS",
+      "campus_customs_size": "XS",
+      "numeric": "2",
+      "line": "straight",
+      "chest": 33.5,
+      "waist": 28,
+      "hip": 35.5
+    },
+    {
+      "old_size": "M",
+      "new_size": "S",
+      "campus_customs_size": "S",
+      "numeric": "4",
+      "line": "straight",
+      "chest": 34.5,
+      "waist": 29,
+      "hip": 36.5
+    },
+    {
+      "old_size": "M",
+      "new_size": "S",
+      "campus_customs_size": "S",
+      "numeric": "6",
+      "line": "straight",
+      "chest": 35.5,
+      "waist": 30,
+      "hip": 37.5
+    },
+    {
+      "old_size": "L",
+      "new_size": "M",
+      "campus_customs_size": "M",
+      "numeric": "8",
+      "line": "straight",
+      "chest": 36.5,
+      "waist": 31.25,
+      "hip": 38.5
+    },
+    {
+      "old_size": "L",
+      "new_size": "M",
+      "campus_customs_size": "M",
+      "numeric": "10",
+      "line": "straight",
+      "chest": 37.5,
+      "waist": 32.5,
+      "hip": 39.5
+    },
+    {
+      "old_size": "XL",
+      "new_size": "L",
+      "campus_customs_size": "L",
+      "numeric": "12",
+      "line": "straight",
+      "chest": 39,
+      "waist": 34,
+      "hip": 41
+    },
+    {
+      "old_size": "XL",
+      "new_size": "L",
+      "campus_customs_size": "L",
+      "numeric": "14",
+      "line": "straight",
+      "chest": 40.5,
+      "waist": 35.75,
+      "hip": 42.5
+    },
+    {
+      "old_size": "XXL",
+      "new_size": "XL",
+      "campus_customs_size": "XL",
+      "numeric": "16",
+      "line": "straight",
+      "chest": 42,
+      "waist": 37.5,
+      "hip": 44
+    },
+    {
+      "old_size": "XXL",
+      "new_size": "XL",
+      "campus_customs_size": "XL",
+      "numeric": "18",
+      "line": "straight",
+      "chest": 44,
+      "waist": 39.5,
+      "hip": 45.5
+    },
+    {
+      "old_size": "XXXL",
+      "new_size": "XXL–XXXL/1X",
+      "campus_customs_size": "XXL",
+      "numeric": "20",
+      "line": "straight",
+      "chest": 46,
+      "waist": 41.5,
+      "hip": 47.5
+    },
+    {
+      "old_size": "XXXL",
+      "new_size": "XXL–XXXL/1X",
+      "campus_customs_size": "XXL",
+      "numeric": "22",
+      "line": "straight",
+      "chest": 48,
+      "waist": 43.5,
+      "hip": 49.5
+    },
+    {
+      "old_size": "1X",
+      "new_size": "0X",
+      "campus_customs_size": null,
+      "numeric": "14W",
+      "line": "plus",
+      "chest": 44,
+      "waist": 39.5,
+      "hip": 45.5
+    },
+    {
+      "old_size": "2X",
+      "new_size": "1X",
+      "campus_customs_size": null,
+      "numeric": "16W",
+      "line": "plus",
+      "chest": 46,
+      "waist": 41.5,
+      "hip": 47.5
+    },
+    {
+      "old_size": "2X",
+      "new_size": "1X",
+      "campus_customs_size": null,
+      "numeric": "18W",
+      "line": "plus",
+      "chest": 48,
+      "waist": 43.5,
+      "hip": 49.5
+    },
+    {
+      "old_size": "3X",
+      "new_size": "2X",
+      "campus_customs_size": null,
+      "numeric": "20W",
+      "line": "plus",
+      "chest": 50,
+      "waist": 45.5,
+      "hip": 51.5
+    },
+    {
+      "old_size": "3X",
+      "new_size": "2X",
+      "campus_customs_size": null,
+      "numeric": "22W",
+      "line": "plus",
+      "chest": 52,
+      "waist": 47.5,
+      "hip": 53.5
+    },
+    {
+      "old_size": "4X",
+      "new_size": "3X",
+      "campus_customs_size": null,
+      "numeric": "24W",
+      "line": "plus",
+      "chest": 54,
+      "waist": 49.5,
+      "hip": 55.5
+    },
+    {
+      "old_size": "4X",
+      "new_size": "3X",
+      "campus_customs_size": null,
+      "numeric": "26W",
+      "line": "plus",
+      "chest": 56,
+      "waist": 51.5,
+      "hip": 57.5
+    },
+    {
+      "old_size": "N/A",
+      "new_size": "4X",
+      "campus_customs_size": null,
+      "numeric": "28W",
+      "line": "plus",
+      "chest": 58,
+      "waist": 53.5,
+      "hip": 59.5
+    },
+    {
+      "old_size": "N/A",
+      "new_size": "4X",
+      "campus_customs_size": null,
+      "numeric": "30W",
+      "line": "plus",
+      "chest": 60,
+      "waist": 55.5,
+      "hip": 61.5
+    },
+    {
+      "old_size": "N/A",
+      "new_size": "5X",
+      "campus_customs_size": null,
+      "numeric": "32W",
+      "line": "plus",
+      "chest": 62,
+      "waist": 57.5,
+      "hip": 63.5
+    },
+    {
+      "old_size": "N/A",
+      "new_size": "5X",
+      "campus_customs_size": null,
+      "numeric": "32W",
+      "line": "plus",
+      "chest": 64,
+      "waist": 59.5,
+      "hip": 65.5
+    }
+  ]
+}

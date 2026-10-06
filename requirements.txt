@@ -1,0 +1,12 @@
+# Python packages for the back end (FastAPI + the PydanticAI chatbot).
+# Install with:  pip install -r requirements.txt
+fastapi>=0.142
+uvicorn[standard]>=0.54
+argon2-cffi>=25.1
+pydantic-ai>=2.54
+openai>=3.24
+python-dotenv>=1.2
+
+# Only for the optional helper scripts in scripts/ (not needed to run the site):
+#   pillow numpy scipy   -> scripts/whiten_product_photos.py
+#   playwright           -> scripts/app_check.py   (then: python -m playwright install chromium)
